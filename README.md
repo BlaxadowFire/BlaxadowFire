@@ -26,6 +26,11 @@ I'm also learning more about programming every day, and have a feeling I'm barel
   * ASP.Net Core
   * Regex
   * Docker
+  * SVG
+  * Animating
+  * LMMS
+  * Inkscape
+  * Adobe XD
 - 👯 I’m looking to collaborate on:
   * Simple projects that I can help build up without having a big responsibility.
   * Projects that will help me grow in knowledge and experience.
